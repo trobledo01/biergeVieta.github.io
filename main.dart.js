@@ -38002,7 +38002,7 @@ p[s]=a[r]+b*p[r]}return p},
 M(a){var s,r,q,p=this,o=null,n=A.N(255,202,192,215),m=A.dN("Bierge-Vieta Solucionador",o,o,o,o,o,o),l=A.N(255,189,172,212),k=t.E,j=A.a([],k)
 for(s=0;s<=p.e;++s){r=A.dN("x^"+s+":",o,o,o,o,o,o)
 q=p.d[s]
-j.push(A.ahs(A.a([r,new A.mR(10,o,o,o),new A.D2(1,B.ls,new A.wE(q,new A.tO(o,o,o,o,o,o,o,o,o,"Coeficiente",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,B.j,o,o,o,o,o,o,o,new A.fH(4,B.ef,B.kd),!0,o,o,o),B.JO,new A.l(!0,B.j,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),B.Jd,B.Je,!0,o),o)],k),B.cw,B.f3))}j.push(A.iR(o,20,o))
+j.push(A.ahs(A.a([r,new A.mR(10,o,o,o),new A.D2(1,B.ls,new A.wE(q,new A.tO(o,o,o,o,o,o,o,o,o,"Coeficiente",o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,B.j,o,o,o,o,o,o,o,new A.fH(4,B.ef,B.kd),!0,o,o,o),B.JO,new A.l(!0,B.l,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),B.Jd,B.Je,!0,o),o)],k),B.cw,B.f3))}j.push(A.iR(o,20,o))
 j.push(new A.CM(p.gQN(),o,o,o,o,B.z,o,!1,o,!0,A.dN("Resolver Ecuaci\xf3n",o,o,o,o,o,o),o))
 return new A.vI(new A.r8(m,l,new A.Lw(o,o,1/0,56),o),new A.cJ(B.B4,A.C0(j,B.cw,B.cC,B.f3),o),A.C0(A.a([A.ac8(A.Vz(B.BJ,o),!1,p.ga5t()),A.iR(o,10,o),A.ac8(A.Vz(B.BL,o),!1,p.gac5())],k),B.cw,B.iL,B.f3),n,o)}}
 A.a3z.prototype={
